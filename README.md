@@ -1,1 +1,1 @@
-# University-Admission-Predictorr
+# University-Admission-Predictor
